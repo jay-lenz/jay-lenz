@@ -32,6 +32,7 @@ I'm a creator with skills such as design and development, as well as photography
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jay-lenz&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
 #
 
 ### 📊 Stats
@@ -40,7 +41,9 @@ I'm a creator with skills such as design and development, as well as photography
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-lenz&show_icons=true&theme=transparent&hide_border=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-lenz&show_icons=true&locale=en&layout=compact" alt="jay-lenz" /></p>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-lenz&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="jay-lenz" /></p> -->
+
 
 <!--
 **jay-lenz/jay-lenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
