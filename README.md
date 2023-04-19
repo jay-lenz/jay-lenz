@@ -39,7 +39,7 @@ I'm a creator with skills such as design and development, as well as photography
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jay-lenz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-lenz&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-lenz&show_icons=true&theme=transparent&hide_border=true)
 <!--
 **jay-lenz/jay-lenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
