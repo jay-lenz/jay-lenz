@@ -13,7 +13,6 @@ I'm a creator with skills such as design and development, as well as photography
    </p>
 
 ---
-<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -82,12 +81,11 @@ I'm a creator with skills such as design and development, as well as photography
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
-</details>
-
 
 #
 
-### 📊GitHub Stats
+<summary><h2>📊GitHub Stats</h2></summary>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-lenz&show_icons=true&theme=transparent&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jay-lenz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
