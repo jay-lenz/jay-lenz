@@ -82,7 +82,7 @@ I'm a creator with skills such as design and development, as well as photography
   </p>
 
 
-#
+---
 
 <summary><h2>📊GitHub Stats & Activity</h2></summary>
 
