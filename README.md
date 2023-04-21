@@ -84,10 +84,10 @@ I'm a creator with skills such as design and development, as well as photography
 
 #
 
-<summary><h2>📊GitHub Stats</h2></summary>
+<summary><h2>📊GitHub Stats & Activity</h2></summary>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-lenz&show_icons=true&theme=transparent&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jay-lenz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=jay-lenz&theme=transparent&hide_border=true)
 
 
 [instagram]: https://instagram.com/jay_lenz 
