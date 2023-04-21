@@ -40,6 +40,8 @@ I'm a creator with skills such as design and development, as well as photography
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
+#
+
 ### 📊 Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jay-lenz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
