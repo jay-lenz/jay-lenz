@@ -39,6 +39,24 @@ I'm a creator with skills such as design and development, as well as photography
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
+   <h3>🧰 Frameworks and Libraries</h3>
+
+  <p>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
+      <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
+      <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
+      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+  </p>
+
 
   </details>
 
