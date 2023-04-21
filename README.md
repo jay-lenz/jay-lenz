@@ -89,7 +89,7 @@ I'm a creator with skills such as design and development, as well as photography
 
 #
 
-### 📊 Stats
+### 📊GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jay-lenz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
